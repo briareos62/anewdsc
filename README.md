@@ -72,6 +72,6 @@ This project is available under a dual-licensing model:
 
 **Open Source & Evaluation:** For open-source projects, academic research, teaching, and personal use, this library is licensed under the GNU GPLv3. Please note the strict copyleft conditions of this license. See the [LICENSE](LICENSE) file for details.
 
-**Commercial Use:** If you wish to use this library in a commercial, proprietary product without having to release your own source code under the GPL, you require a commercial license. Please contact us at math [at]leipelt-hamburg.de.
+**Commercial Use:** If you wish to use this library in a commercial, proprietary product without having to release your own source code under the GPL, you require a commercial license. Please contact us at math[at]leipelt-hamburg.de.
 
 > **Note for commercial users:** While a commercial license allows you to use `anewdsc` in proprietary products, please be aware that this library depends on GMP, MPFR, and MPFI, which are licensed under the LGPL. To easily comply with the LGPL requirements for these dependencies, we strongly recommend dynamically linking `anewdsc` and its dependencies (using shared libraries / DLLs).

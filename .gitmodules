@@ -1,0 +1,3 @@
+[submodule "external/anewdsc"]
+	path = external/anewdsc
+	url = git@github.com:briareos62/anewdsc.git
